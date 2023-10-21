@@ -1,2 +1,3 @@
-# online-casino-du-project
-Web Project, Dhaka University using HTML5, CSS3 and Bootstrap etc.
+**Md Abu Zakir Rizvi**
+**Roll: 2302111**
+**Executive MIT, Dhaka University**
